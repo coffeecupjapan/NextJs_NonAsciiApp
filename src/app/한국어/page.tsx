@@ -1,4 +1,4 @@
-export const nonAsciiTest = () => {
+const nonAsciiTest = () => {
     return (
         <div>
             <h1>Non Ascii Test Korean index</h1>
